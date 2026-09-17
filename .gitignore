@@ -1,0 +1,37 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets and generated labels
+CodDataset/
+**/CodDataset/
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Training and evaluation outputs
+map/
+map_*/
+out/
+out_*/
+output/
+results/
+results*.txt
+*.log
+*.xlsx
+
+# Local scratch files
+xx.txt
+xxx.txt
+*.xtxt
+
+# Editor and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
