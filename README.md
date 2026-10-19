@@ -1,6 +1,3 @@
-# IVC: training and inference release
-
-Portable source release of the complete research model associated with
 **PD-RPNet: Progressive Decoding with Reliable Propagation for Scribble-Supervised Camouflaged Object Detection**.
 
 
