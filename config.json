@@ -1,0 +1,15 @@
+{
+  "epochs": 60,
+  "batch_size": 4,
+  "image_size": 512,
+  "base_lr": 0.00001,
+  "peak_lr": 0.01,
+  "backbone_lr_factor": 0.1,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "radius": 7,
+  "seed": 2026,
+  "workers": 4,
+  "label_dir": "Label",
+  "label_encoding": "012"
+}

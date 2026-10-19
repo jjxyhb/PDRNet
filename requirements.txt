@@ -1,0 +1,7 @@
+# Install the matching torch/torchvision builds first (see REPRODUCTION.md).
+torch==1.13.1
+torchvision==0.14.1
+timm==0.3.2
+numpy==1.21.6
+opencv-python-headless==4.8.1.78
+Pillow==9.5.0
