@@ -3,12 +3,6 @@
 Portable source release of the complete research model associated with
 **PD-RPNet: Progressive Decoding with Reliable Propagation for Scribble-Supervised Camouflaged Object Detection**.
 
-This repository contains the existing server implementation: PVTv2-B4,
-MaskAwarePFGA, gated DTAS, boundary/confidence heads, and the complete training
-objective. It preserves historical checkpoint parameter names. This is a cleaned
-research implementation, **not a claim that every module matches the manuscript
-or that the paper's reported metrics have been reproduced**. See the explicit
-implementation differences in [REPRODUCTION.md](REPRODUCTION.md).
 
 ## dataset
 
